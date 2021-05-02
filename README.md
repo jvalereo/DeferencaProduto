@@ -1,8 +1,10 @@
-![imagem](https://user-images.githubusercontent.com/25933386/116760987-d6706c00-a9ec-11eb-9e2e-7dd29296c4c3.jpg)
-
 
 <a href="#">
-<img align="center"  alt="jonas-css" height ="200" width ="300" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-css" height ="80" width ="100" src ="https://user-images.githubusercontent.com/25933386/116760987-d6706c00-a9ec-11eb-9e2e-7dd29296c4c3.jpg" style="max-width: 100%;"></img>
+</a>
+
+<a href="#">
+<img align="center"  alt="jonas-css" height ="300" width ="300" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>
 
 # DeferencaProduto
