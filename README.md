@@ -4,7 +4,7 @@
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-css" height ="300" width ="300" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-css" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>
 
 # DeferencaProduto
