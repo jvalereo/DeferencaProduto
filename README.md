@@ -11,7 +11,7 @@
 # Diferenca Produto
 
 <a href="#">
-<img align="center"  alt="jonas-Dev" height ="60" width ="100" src ="https://user-images.githubusercontent.com/25933386/116830761-19b01380-ab82-11eb-9ae2-1fcc804ec23b.png" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-Dev" height ="60" width ="100" src ="https://user-images.githubusercontent.com/25933386/116830896-cb4f4480-ab82-11eb-8435-a866fd86ceec.png" style="max-width: 100%;"></img>
 </a>
 
 # Sobre o Projeto
