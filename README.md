@@ -26,3 +26,6 @@
 
 - Pode fazer o dowloads e executa na sua IDE de preferencia
 - Obs: Dentro da subpastas obj/Debug , tem o programa executavel
+
+# Autor
+- Jonas Valereo - Técnico em Informática 
