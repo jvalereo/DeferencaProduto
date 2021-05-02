@@ -12,7 +12,8 @@
 
 # Sobre o Projeto
 
-- Programa  que Calcule a diferença do produto, onde o calculo, usa multiplicacao, subtracao e a resposta do resltado
+- Programa  que Calcule a diferença do produto, usa multiplicacao, subtracao e execulta o resultado na tela.
+- Outros fatores, também tem os buttons, Executa, Limpar, Sair, onde o usuario pode, fazer teste com esse projeto.
 - Projeto foi implemetado no  Windows Forms.
 - IDE Visual Studio
 
@@ -24,8 +25,9 @@
 
 # Como Executa o Projeto
 
-- Pode fazer o dowloads e executa na sua IDE de preferencia
+- Pode fazer o download e executa na sua IDE de preferencia
 - Obs: Dentro da subpastas obj/Debug , tem o programa executavel
 
 # Autor
+
 - Jonas Valereo - Técnico em Informática 
