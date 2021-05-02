@@ -16,7 +16,7 @@
 
 # Sobre o Projeto
 
-- Programa que Calcule a diferença do produto, operações multiplicacao, subtracao e execulta o resultado na tela.
+- Programa que Calcule a diferença do produto, operações multiplicação, subtração e execulta o resultado na tela.
 - Outros fatores, você também pode  fazer testes, usando os buttons, Executa, Limpar, Sair, nesse projeto.
 - Projeto foi implemetado no  Windows Forms.
 - IDE Visual Studio
