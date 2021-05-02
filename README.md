@@ -7,7 +7,7 @@
 <img align="center"  alt="jonas-C#" height ="500" width ="500" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>
 
-# DeferencaProduto
+# Diferenca Produto
 - Programa c# basico, Calcule a diferença do produto
 - Projeto no  Windows Forms
 - Obs: Dentro da subpastas obj/Debug , tem o programa executavel
