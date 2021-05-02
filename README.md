@@ -12,6 +12,17 @@
 
 # Sobre o Projeto
 
-- Programa c# basico, Calcule a diferença do produto
-- Projeto no  Windows Forms
+- Programa  que Calcule a diferença do produto, onde o calculo, usa multiplicacao, subtracao e a resposta do resltado
+- Projeto foi implemetado no  Windows Forms.
+- IDE Visual Studio
+
+
+# Tecnologia Aplicada no Projeto
+
+- Bak-end
+- C#
+
+# Como Executa o Projeto
+
+- Pode fazer o dowloads e executa na sua IDE de preferencia
 - Obs: Dentro da subpastas obj/Debug , tem o programa executavel
