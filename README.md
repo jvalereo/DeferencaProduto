@@ -4,7 +4,7 @@
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="500" width ="500" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="450" width ="450" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>
 
 # Diferenca Produto
