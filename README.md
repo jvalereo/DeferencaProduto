@@ -1,7 +1,7 @@
 # Layout
 
 <a href="#">
-<img align="center"  alt="jonas-css" height ="400" width ="350" src ="https://user-images.githubusercontent.com/25933386/116760987-d6706c00-a9ec-11eb-9e2e-7dd29296c4c3.jpg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-Layout" height ="400" width ="350" src ="https://user-images.githubusercontent.com/25933386/116760987-d6706c00-a9ec-11eb-9e2e-7dd29296c4c3.jpg" style="max-width: 100%;"></img>
 </a>
 
 <a href="#">
@@ -9,6 +9,10 @@
 </a>
 
 # Diferenca Produto
+
+<a href="#">
+<img align="center"  alt="jonas-Dev" height ="40" width ="70" src ="https://user-images.githubusercontent.com/25933386/116830761-19b01380-ab82-11eb-9ae2-1fcc804ec23b.png" style="max-width: 100%;"></img>
+</a>
 
 # Sobre o Projeto
 
