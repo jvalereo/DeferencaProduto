@@ -15,7 +15,7 @@
 </a>
 
 
-[![ NPM](https://img.shields.io/npm/l/licen)](https://github.com/jvalereo/DiferencaProduto/commit/e1c047d91d6f1e09257482a020ac1c8493a58154)
+[![ NPM](https://img.shields.io/npm/l/licen heigth=40 width=50)](https://github.com/jvalereo/DiferencaProduto/commit/e1c047d91d6f1e09257482a020ac1c8493a58154)
 
 # Sobre o Projeto
 
